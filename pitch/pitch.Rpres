@@ -47,6 +47,6 @@ as.character(p$class)
 round(p$posterior, 3)
 ```
 
-- App: `https://YOUR-NAME.shinyapps.io/flower-guesser/`
+- App: `https://Aarushi-Batra.shinyapps.io/flower-guesser/`
 - Code: `https://github.com/Aarushi-Batra/DDP_week4_Course_Project`
 - A **Help** tab inside the app explains every step
